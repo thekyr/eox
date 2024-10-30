@@ -1,0 +1,120 @@
+[
+    {
+        "UCSC-C220-M5SX": {
+            "PaginationResponseRecord": {
+                "PageIndex": 1,
+                "LastIndex": 1,
+                "TotalRecords": 2,
+                "PageRecords": 2
+            },
+            "EOXRecord": [
+                {
+                    "EOLProductID": "UCSC-C220-M5SX",
+                    "ProductIDDescription": "UCS C220 M5 SFF 10 HD w/o CPU, mem, HD, PCIe, PSU",
+                    "ProductBulletinNumber": "EOL15060",
+                    "LinkToProductBulletinURL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/ucs-m5-rack-server-c220-c240-c480-eol.html",
+                    "EOXExternalAnnouncementDate": {
+                        "value": "2023-05-01",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfSaleDate": {
+                        "value": "2023-10-30",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfSWMaintenanceReleases": {
+                        "value": "2024-10-29",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfSecurityVulSupportDate": {
+                        "value": "2028-10-31",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfRoutineFailureAnalysisDate": {
+                        "value": "2024-10-29",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfServiceContractRenewal": {
+                        "value": "2028-01-25",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "LastDateOfSupport": {
+                        "value": "2028-10-31",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfSvcAttachDate": {
+                        "value": "2024-10-29",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "UpdatedTimeStamp": {
+                        "value": "2024-09-24",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EOXMigrationDetails": {
+                        "PIDActiveFlag": "Y",
+                        "MigrationInformation": "UCS M7 RACK MLB",
+                        "MigrationOption": "Enter PID(s)",
+                        "MigrationProductId": "UCS-M7-MLB",
+                        "MigrationProductName": "",
+                        "MigrationStrategy": "",
+                        "MigrationProductInfoURL": ""
+                    },
+                    "EOXInputType": "ShowEOXByPids",
+                    "EOXInputValue": "UCSC-C220-M5SX "
+                },
+                {
+                    "EOLProductID": "UCSC-C220-M5SX",
+                    "ProductIDDescription": "UCS C220 M5 SFF 10 HD w/o CPU, mem, HD, PCIe, PSU",
+                    "ProductBulletinNumber": "EOL15060",
+                    "LinkToProductBulletinURL": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/ucs-m5-rack-server-c220-c240-c480-eol.html",
+                    "EOXExternalAnnouncementDate": {
+                        "value": "2023-05-01",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfSaleDate": {
+                        "value": "2023-10-30",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfSWMaintenanceReleases": {
+                        "value": "2024-10-29",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfSecurityVulSupportDate": {
+                        "value": "2028-10-31",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfRoutineFailureAnalysisDate": {
+                        "value": "2024-10-29",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfServiceContractRenewal": {
+                        "value": "2028-01-25",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "LastDateOfSupport": {
+                        "value": "2028-10-31",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EndOfSvcAttachDate": {
+                        "value": "2024-10-29",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "UpdatedTimeStamp": {
+                        "value": "2024-09-24",
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "EOXMigrationDetails": {
+                        "PIDActiveFlag": "Y",
+                        "MigrationInformation": "UCS M6 RACK, BLADE MLB",
+                        "MigrationOption": "Enter PID(s)",
+                        "MigrationProductId": "UCS-M6-MLB",
+                        "MigrationProductName": "",
+                        "MigrationStrategy": "",
+                        "MigrationProductInfoURL": ""
+                    },
+                    "EOXInputType": "ShowEOXByPids",
+                    "EOXInputValue": "UCSC-C220-M5SX "
+                }
+            ]
+        }
+    }
+]
