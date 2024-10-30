@@ -19,3 +19,6 @@ CLIENT_SECRET = '<client_secret>'
 
 #### Usage
 python eox.py
+
+#### Issues
+In case you receive error message: `developer inactive` in the output, you need to contact apix-support@cisco.com so they can provide access to EoX API if not availiable in your application when created in [https://apiconsole.cisco.com/](https://apiconsole.cisco.com/)
