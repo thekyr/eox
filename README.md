@@ -14,7 +14,7 @@ The client_id and client_secret tht will be generated after the application crea
 
 ```
 CLIENT_ID = '<client_id'>
-CLIENT_SECRET = 'client_secret>'
+CLIENT_SECRET = '<client_secret>'
 ```
 
 #### Usage
