@@ -133,7 +133,7 @@ def main():
     with open('eox_pids_results.json', 'w') as file:
         json.dump(eox_data_pids, file, indent=4)
 
-    print("EoX information collection complete. Serial Data saved to eox_serials_results.json. PID Data saved tp eox_pids_results.json")
+    print("EoX information collection complete. Serial Data saved to eox_serials_results.json. PID Data saved to eox_pids_results.json")
 
 if __name__ == "__main__":
     main()
